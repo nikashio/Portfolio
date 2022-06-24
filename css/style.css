@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Proza+Libre:wght@700&display=swap");
+
+.header {
+    display: flex;
+}
+
+.content {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.navigation ul {
+    display: flex;
+    list-style: none;
+}
+
+.navigation-item {
+    margin: 5px;
+}
+
+.navigation {
+    margin-left: auto;
+}
+
+.about-me {
+    display: flex;
+}
+
+.about-me-text {
+    font-size: 22px;
+}
+
+.profile-img {
+    margin-left: 50px;
+    border-radius: 20px;
+}
+
+.projetcs ul {
+    list-style: none;
+}
+
+.projetcs ul li {
+    margin: 5px;
+}
+
+.skill-items {
+    padding-left: 15px;
+}
